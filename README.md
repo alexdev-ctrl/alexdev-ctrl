@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexdev-ctrl
+- 👋 Hi, I’m alex_dev
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on a flutter project
